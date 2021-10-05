@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naveen98
+- 👋 Hi, I’m @ranasingheny
 - 👀 I’m interested in Automotive
 - 🌱 I’m currently learning in University of Colombo
 - 💞️ I’m looking to collaborate on ...

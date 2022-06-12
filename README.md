@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ranasingheny
+- 👋 Hi, I’m @naveen0x
 - 👀 I’m interested in Automotive
 - 🌱 I’m currently learning in University of Colombo
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-naveen98/naveen98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to collaborate on GNU projects
+- 📫 reachme on n@code.lk

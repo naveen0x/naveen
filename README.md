@@ -2,4 +2,4 @@
 - 👀 I’m interested in Automotive
 - 🌱 I’m currently learning in University of Colombo
 - 💞️ I’m looking to collaborate on GNU projects
-- 📫 reachme on n@code.lk
+- 📫 Reachme on Twitter @ranasingheny

@@ -22,3 +22,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naveen0x&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen0x&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ranasingheny" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/ranasingheny?trk=profile-badge">Naveen Ranasinghe</a></div>
+              

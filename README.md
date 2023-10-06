@@ -16,6 +16,10 @@
 - 🔗 Join me on this exhilarating journey as we unravel the boundless possibilities of IoT, fortify the digital realm, navigate the cloud's ethereal landscapes, and engineer the future of industrial prowess. Let's connect and share insights that shape tomorrow's technological frontiers. 🚀
 
 ---
+
+[![An image of @naveen0x's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naveen0x)](https://holopin.io/@naveen0x)
+
+---
 <div id="badges">
   <a href="https://www.linkedin.com/in/ranasingheny">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
